@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#one .whats{
+    border-radius: 10px;
+    box-shadow: 2px 3px 15px 5px #ccc ;
+}
+#one .call{
+    border-radius: 10px;
+    /* width: 120px; */
+    padding:5px 20px;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);
+    box-shadow: 2px 3px 15px 5px #ccc ;    
+}
+#two{
+    margin-bottom: 250px;
+}
+ span{
+    color:#2699FB;
+}
+/* #two .out{
+    background-image: url("images/Ellipse 92.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+#two .front{
+    width: 410px;
+    /* position: absolute; */
+    /* top:120px;
+    right: 660px; */
+    margin: 35px 70px;
+    padding: 10px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 5px #ccc;
+}
+#two .front input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#two .empty{
+    width: 90%;
+    margin: 120px 0;
+}
+#two .back{
+    width: 552px;
+    position: absolute;
+}
+#two .regis{
+    width: 100%;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);  
+    border: none;  
+    padding: 10px;
+    color:white;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    box-shadow: 2px 3px 15px 5px #ccc ;
+}
+#two h1{
+    font-size: 60px;
+    background-image: url("images/Vector 63.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#two p{
+    font-size: 24px;
+}
+#two .back{
+    width: 552px;
+}
+#two li{
+    margin: 15px 0;
+    padding: 0px;
+}
+#two .btn{
+    max-width:600px
+}
+#two .book{
+    width: 278px;
+    font-size: 20px;
+    padding: 16px 48px;
+    /* box-sizing: border-box; */
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);
+    box-shadow: 2px 3px 15px 5px #ccc ;
+}
+#two .down{
+    width: 278px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 15px 5px #ccc ;
+    font-size: 20px;
+}
+.clear{
+    clear: both;
+}
+#three{
+    box-shadow: 2px 3px 15px 5px #ccc ;
+    border-radius: 10px;
+    padding: 30px 0;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#four{
+    margin-top: 100px;
+}
+#four .bg{
+    background-color: #F7FAFF;
+}
+#four .box{
+    width: 30%;
+    border-radius: 10px;
+    margin: 10px 5px;
+}
+#four .bfc{
+    width: 278px;
+    font-size: 20px;
+    padding: 16px 48px;
+    /* box-sizing: border-box; */
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);
+    box-shadow: 2px 3px 15px 5px #ccc ;
+}
+#five{
+    margin:50px 0 ;
+}
+/* #six .left{
+    position: relative;
+} */
+#six .back{
+    position: absolute;
+    left: -10px;
+}
+#six .certificate{
+    position: absolute;
+    top:10px;
+}
+#six .backk{
+    position: absolute;
+    bottom: 500%;
+    left: 40%;
+    z-index: -1;
+}
+#seven li{
+    margin-bottom: 10px;
+}
+
+#eight .box{
+    width: 30%;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+#nine .box1{
+    width: 48%;
+    
+}
+#nine .boxx{
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);
+}
+
+#ten .bfc{
+    width: 278px;
+    font-size: 20px;
+    padding: 16px 48px;
+    /* box-sizing: border-box; */
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 0%,#0ACEFE 100%,#2699FB 100%);
+    box-shadow: 2px 3px 15px 5px #ccc ;
+}
+#twevel .box3{
+    background-color: #0A2540;
+}

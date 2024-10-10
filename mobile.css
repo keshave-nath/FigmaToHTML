@@ -1,0 +1,30 @@
+@media only screen and (min-width: 0px) and (max-width: 768px){
+
+	#two .book{
+        width: 200px;
+        font-size: 10px;
+    }
+	#two .down{
+        width: 200px;
+        font-size: 10px;
+    }
+    #three{
+        margin-top: 650px;
+    }
+    #four .box{
+        width: 100%;    
+    }
+    #six .backk {
+        display: none;
+    }
+    #seven{
+        margin-top: 600px;
+    }
+    #eight .box{
+        width: 100%;
+    }
+    #nine .box1{
+        width: 100%; 
+    }
+
+}
